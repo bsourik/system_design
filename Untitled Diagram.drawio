@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T15:33:53.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="RITd-EKhCX1UvHWmY_9P" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-28T15:46:25.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="lWNz8jN-vp2nNRtXZt7k" version="14.6.6" type="github">
   <diagram id="sioPz1f6lP79hygTzQPe" name="Page-1">
     <mxGraphModel dx="868" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EKp3nstqfUqZXwGcpkY4-5" value="Requirement&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;1. Login with 1 master password&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;2. search accounts associated with 1 email id&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;3.&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EKp3nstqfUqZXwGcpkY4-5" value="Requirement&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;1. Login with 1 master password&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;2. search accounts associated with 1 email id&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;3. search emails associated to a site&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;4. copy to clipboard icon&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;5.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="100" width="230" height="220" as="geometry" />
         </mxCell>
       </root>
